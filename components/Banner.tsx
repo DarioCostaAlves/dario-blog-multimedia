@@ -13,7 +13,7 @@ function Banner() {
 
           <h2>
             Caderno digital onde irei colocar todo o conteúdo importante da cadeira "Produção de Conteúdos Multimédia",
-            separado por categorias, e também todos os passos de realizaºão dos meus trabalhos.
+            separado por categorias, e também todos os passos de realização dos meus trabalhos.
           </h2>        
         </div>  
         <img

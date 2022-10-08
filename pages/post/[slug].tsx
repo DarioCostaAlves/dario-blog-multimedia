@@ -33,11 +33,11 @@ function Post({ post }: Props) {
                     alt="Author image"
                 />
                 <p className="font-extralight text-sm">
-                    Blog post By 
+                    Blog post por  {' '} 
                     <span className="text-green-600">
                         {post.author.name}
-                    </span> - Published at{" "}
-                    {new Date(post.createdAt).toLocaleString()}
+                    </span> - Publicado em{" "}
+                    {new Date(post._createdAt).toLocaleString()}
                 </p>
             </div>
             <div className="mt-10">
