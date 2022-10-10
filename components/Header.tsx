@@ -13,9 +13,12 @@ function Header() {
                 />
             </Link>
             <div className="hidden md:inline-flex
-            items-center space-x-5">                
+            items-center space-x-5">  
+            <Link href="/">
                 <h3 className="text-white bg-green-600
-                px-4 py-1 rounded-full">Posts</h3>
+                px-4 py-1 rounded-full cursor-pointer">Posts</h3>
+            </Link>              
+            
             </div>           
         </div>
         <div className="flex items-center space-x-5 text-green-600">            

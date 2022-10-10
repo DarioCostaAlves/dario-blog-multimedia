@@ -19,11 +19,11 @@ function Post({ post }: Props) {
             alt="Post main image"
         />
 
-        <article className="max-w-3xl mx-auto p5">
-            <h1 className="text-3xl mt-10 mb-3">
+        <article className="max-w-3xl mx-auto p-5">
+            <h1 className="text-2xl md:text-3xl lg:text-4xl mt-10 mb-3">
                 {post.title}
             </h1>
-            <h2 className="text-xl font-light text-gray-500-mb-2">
+            <h2 className="text-xl font-light text-gray-500 mb-3">
                 {post.description}
             </h2>
             <div className="flex items-center space-x-2">
