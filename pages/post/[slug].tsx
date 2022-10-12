@@ -49,11 +49,15 @@ function Post({ post }: Props) {
                         {
                             h1: (props: any) => 
                             (
-                                <h1 className="text-2xl font-bold my-5" {...props} />
+                                <h1 className="text-3xl font-bold my-5" {...props} />
                             ),
                             h2: (props: any) => 
                             (
-                                <h1 className="text-xl font-bold my-5" {...props} />
+                                <h1 className="text-2xl font-bold my-5" {...props} />
+                            ),
+                            h3: (props: any) => 
+                            (
+                                <h1 className="text-3xl font-bold my-5" {...props} />
                             ),
                             li: ({children}: any) => 
                             (
