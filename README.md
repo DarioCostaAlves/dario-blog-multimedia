@@ -1,4 +1,5 @@
-# Caderno digital para trabalho universitário - cadeira "Produção de Conteúdos Multimédia".
+# Caderno digital para trabalho universitário
+## Cadeira: "Produção de Conteúdos Multimédia".
 
 Tecnologias usadas: [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) e Next.js. Passos para juntar ambos [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
